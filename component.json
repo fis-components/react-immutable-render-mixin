@@ -5,6 +5,9 @@
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "0.9.3"
+    "dependencies": {
+        "immutable": ">=2.0.10",
+        "react": "*"
+    },
+    "version": "0.9.4"
 }
