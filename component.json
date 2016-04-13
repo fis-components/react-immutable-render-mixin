@@ -9,5 +9,5 @@
         "immutable": ">=2.0.10",
         "react": "*"
     },
-    "version": "0.9.4"
+    "version": "0.9.5"
 }
