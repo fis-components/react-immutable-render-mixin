@@ -1,0 +1,10 @@
+{
+    "name": "react-immutable-render-mixin",
+    "description": "React PureRenderMixin replacement for immutable-js library",
+    "repos": "https://github.com/jurassix/react-immutable-render-mixin.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.9.3"
+}
